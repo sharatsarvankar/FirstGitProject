@@ -4,7 +4,7 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    System.out.print("hellow Git"); 
+   //1 st commit  System.out.print("hellow Git"); 
 	}
 
 }
